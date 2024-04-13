@@ -7,7 +7,7 @@ import pandas as pd
 import numpy as np  
 app = Flask(__name__)  
 
-model = load(r"C:\Users\chinn\Videos\project\pr1\heart1.pkl")
+model = load(r".\heart1.pkl")
 
 @app.route('/')  
 def home():  
