@@ -6,6 +6,7 @@ search python is install or not
 
 create a enviroment for our project
 > conda create -n (env name) python=(version)
+
 for ex:
 > conda create -n myenv python=(3.6)
 
